@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Henlil001
+- 👋 Hi, I’m Henrik
 - 👀 I’m interested in coding, hockey...
 - 🌱 I’m currently learning .Net, c# and azure
 - 💞️ I’m looking for a internship starting in november this year (2024).
