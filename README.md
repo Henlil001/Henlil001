@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Henrik
+- 👋 Hi, I’m Henrik Liljestrand
 - 👀 I’m interested in coding, hockey...
 - 🌱 I’m currently learning .Net, c# and azure
 - 💞️ I’m looking for a internship starting in november this year (2024).
-- 📫 How to reach me, email: henrik.liljestrand@hotmail.com
+- 📫 Email: henrik.liljestrand@hotmail.com
 
 <!---
 Henlil001/Henlil001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
